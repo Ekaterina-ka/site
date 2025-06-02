@@ -15,5 +15,4 @@ price.onclick = function() {
   location.href = ''
 }
 
-gsap.to(".title", {});
 
